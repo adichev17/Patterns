@@ -1,11 +1,7 @@
 ﻿using NUnit.Framework;
 using Patterns.Composite;
 using Patterns.Composite.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PattersTests
 {
