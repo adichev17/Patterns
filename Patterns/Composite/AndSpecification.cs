@@ -1,5 +1,4 @@
-﻿
-// combinator
+﻿// combinator
 namespace Patterns.Composite
 {
     public class AndSpecification<T> : CompositeSpecification<T>
