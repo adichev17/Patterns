@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace PattersTests
 {
     [TestFixture]
-    public class State
+    public class StateTests
     {
         [Test]
         public void Test()
