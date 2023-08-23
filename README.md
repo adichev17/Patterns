@@ -5,5 +5,5 @@ The project contains the most relevant design patterns in the C# development lan
 -----------------------------------
 В проекте собраны наиболее актуальные паттерны проектирования на языке разработки C# и лучшие их реализации. Данный проект служит "шпаргалкой" по паттернам.
 
-![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)](https://github.com/adichev17/Patterns/actions/workflows/Update%20dotnet-desktop.yml.yml)
+![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)](https://github.com/adichev17/Patterns/actions/workflows/Update%20dotnet-desktop.yml)
 
