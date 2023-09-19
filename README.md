@@ -1,4 +1,6 @@
-![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)]
+![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-Patterns/views.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-Patterns/clones.svg)
 
 # Project Title
 
